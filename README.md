@@ -22,13 +22,11 @@ This repository contains the work completed during the Quantium Data Analytics J
 
 
 ## 🏅 Certificate:
+🔗[Quantium Data Analytics Job Simulation (PDF)](https://github.com/Gtshivanand/Quantium-Data-Analytics-Job-Simulation/blob/main/Quantium-Data%20Analytics%20Job%20Simulation.pdf)
 
+## 🧑‍💻 **Project Structure**
 
-
-
-## 🧑‍💻 **Project Structure**:
-
-plaintext
+```plaintext
 Quantium-Data-Analytics-Job-Simulation/
 │
 ├── data/                   # Transaction datasets
@@ -43,8 +41,7 @@ Quantium-Data-Analytics-Job-Simulation/
 │   └── commercial_insights_report.pdf
 │
 └── README.md               # Project overview
-
-
+```
 # Feedback and Suggestions:
 
 Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
